@@ -1,0 +1,6 @@
+app/public/wp-content/uploads/
+app/public/wp-content/upgrade/
+app/public/wp-content/cache/
+.vscode/
+.DS_Store
+
